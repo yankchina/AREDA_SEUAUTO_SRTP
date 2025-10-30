@@ -100,6 +100,8 @@ cd server/v1
 
 - **何海心** - 本科毕业设计，提供了iOS端和服务器端的核心代码
 
+该项目技术指导教师 **杨安康**（yankchina@gmail.com、yankchina@seu.edu.cn）
+
 ## 项目状态
 
 - ✅ iOS AR应用 - 基本功能完成
